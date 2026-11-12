@@ -1,0 +1,12 @@
+[
+  {
+    "path": "fixtures/design.json",
+    "sha256": "67bb5d956d83559122544e7be1f713f25b35418c37fb9bcd47d4b76c5d6ec7f2",
+    "size_bytes": 508
+  },
+  {
+    "path": "fixtures/ratings.csv",
+    "sha256": "1a001ec17ea3dee55f05cdfd1108944881df959c3b2c85e98e028e15cdb6b294",
+    "size_bytes": 457
+  }
+]

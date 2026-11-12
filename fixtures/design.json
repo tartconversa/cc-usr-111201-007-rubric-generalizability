@@ -1,0 +1,36 @@
+{
+  "score_range": [
+    0,
+    100
+  ],
+  "variance_fit": "weighted_nnls",
+  "mean_square_weights": "degrees_of_freedom",
+  "tasks_grid": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "raters_grid": [
+    1,
+    2,
+    3
+  ],
+  "cost_per_task": 2,
+  "cost_per_rating": 1,
+  "budget": 12,
+  "relative_threshold": 0.8,
+  "absolute_threshold": 0.75,
+  "bootstrap_repeats": 200,
+  "seed": 1120107,
+  "hand_variances": {
+    "p": 4,
+    "t": 0,
+    "r": 0,
+    "pt": 2,
+    "pr": 1,
+    "tr": 0,
+    "ptr": 0
+  }
+}
